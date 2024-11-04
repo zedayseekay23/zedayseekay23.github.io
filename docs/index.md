@@ -6,6 +6,7 @@
 
 ### Mandatory
 1. Refinery. Higher Class -> more bins. Fragments can include multiple resources but a bin can only refine one type of resource at a time and leave the rejected resources in the hopper. Since a bin can take a while to get to 100% you really need more than one bin to deal with mixed fragments effectively.
+ - Only one refinery is allowed, so you can't fill your module slots with dozens of bins. Sorry.
 
 2. At least one of
    - Abrasion Blasters - for surface deposits that you can target.
